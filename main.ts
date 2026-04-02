@@ -26,9 +26,9 @@ quest_Note_1.quest_Show_String_For_Note_Big_Func(
 )
 basic.forever(function () {
     quest_Note_1.quest_Show_String_For_Note_Small_Func(
-    "Ver 0.1.0: 25-0401-1930"
+    "Ver 0.1.1: 26-0402-1700"
     )
     quest_Note_1.quest_Show_String_For_Note_Small_Func(
-    "©️ 2025 Quest Institute. All rights reserved."
+    "©️ 2026 Quest Institute. All rights reserved."
     )
 })
